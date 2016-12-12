@@ -5,5 +5,6 @@ npm install
 npm start
 ```
 
-Make some changes in hello.js and it should reload.
-# simple-file-tree
+This is an implementation of a simple file tree built with Idiomatic functional Javascript <3.
+
+All of the implementation is in [this file](https://github.com/swapnilmishra/simple-file-tree/blob/master/public/javascripts/index.js) and its very readable :)
